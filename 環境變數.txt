@@ -1,0 +1,3 @@
+C:\opencv2.4.9\build\x86\vc12\bin
+C:\opencv2.4.9\build\x64\vc12\bin
+C:\opencv2.4.9\build
